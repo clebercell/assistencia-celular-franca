@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Clebercell - Assistência Técnica em Celulares</title>
+
+<style>
+
+body{
+font-family: Arial;
+margin:0;
+background:#0a0a0a;
+color:white;
+text-align:center;
+}
+
+header{
+background:linear-gradient(90deg,#001f4d,#ff6600);
+padding:40px;
+}
+
+h1{
+font-size:45px;
+margin:0;
+}
+
+h2{
+margin-top:10px;
+font-weight:normal;
+}
+
+.container{
+padding:40px;
+max-width:1000px;
+margin:auto;
+}
+
+.servicos{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:25px;
+margin-top:30px;
+}
+
+.card{
+background:#1a1a1a;
+padding:25px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.5);
+}
+
+.whatsapp{
+display:inline-block;
+margin-top:30px;
+background:#25D366;
+color:white;
+padding:18px 35px;
+font-size:22px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.whatsapp:hover{
+background:#1ebe5d;
+}
+
+.marcas{
+margin-top:40px;
+}
+
+.marcas img{
+width:120px;
+margin:15px;
+}
+
+.endereco{
+background:#111;
+padding:30px;
+margin-top:40px;
+}
+
+footer{
+background:#000;
+padding:20px;
+margin-top:40px;
+font-size:14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>CLEBERCELL</h1>
+<h2>Assistência Técnica Especializada em Celulares Android</h2>
+
+</header>
+
+<div class="container">
+
+<h2>Conserto de Celular em Franca</h2>
+
+<p>Assistência técnica especializada em celulares Samsung, Motorola e Xiaomi.</p>
+<p>Serviços feitos com qualidade, peças de primeira linha e garantia.</p>
+<p><strong>Na maioria dos casos o conserto fica pronto no mesmo dia.</strong></p>
+
+<a class="whatsapp" href="https://wa.me/5516999722465" target="_blank">
+FALAR NO WHATSAPP
+</a>
+
+<div class="servicos">
+
+<div class="card">
+<h3>Troca de Tela</h3>
+<p>Troca de telas quebradas com peças de qualidade e garantia.</p>
+</div>
+
+<div class="card">
+<h3>Troca de Conector</h3>
+<p>Seu celular não carrega? Fazemos troca do conector de carga com garantia.</p>
+</div>
+
+<div class="card">
+<h3>Troca de Bateria</h3>
+<p>Troca de bateria para celulares Samsung, Xiaomi e Motorola.</p>
+</div>
+
+<div class="card">
+<h3>Conserto no Mesmo Dia</h3>
+<p>A maioria dos serviços ficam prontos no mesmo dia.</p>
+</div>
+
+</div>
+
+<div class="marcas">
+
+<h2>Trabalhamos com</h2>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Samsung_Logo.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Motorola_M_symbol_blue.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Xiaomi_logo.svg">
+
+</div>
+
+</div>
+
+<div class="endereco">
+
+<h2>Endereço</h2>
+
+<p>
+Rua José Maria Jacinto Rebelo<br>
+Número 5490<br>
+Vila Santa Terezinha<br>
+Franca - SP
+</p>
+
+<p><strong>WhatsApp: (16) 99972-2465</strong></p>
+
+</div>
+
+<footer>
+
+Clebercell - Assistência Técnica em Celulares Android em Franca
+
+</footer>
+
+</body>
+</html>
